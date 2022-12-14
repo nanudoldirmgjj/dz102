@@ -18,6 +18,7 @@ a {
     background-color: rgb(103, 18, 18);
     color: white;
     position: fixed;
+    transition: all ease 0.3s;
 }
 
 .links {
